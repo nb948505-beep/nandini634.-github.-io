@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lahari | Portfolio</title>
+</head>
+
+<body>
+
+    <h1>Hi, I'm Lahari 👋</h1>
+
+    <h2>Java Full Stack Developer</h2>
+
+    <p>
+        BTech Computer Science Engineering graduate with
+        knowledge of Java, SQL, HTML, CSS and JavaScript.
+    </p>
+
+    <h2>Skills</h2>
+
+    <ul>
+        <li>Java</li>
+        <li>SQL</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Git & GitHub</li>
+    </ul>
+
+    <h2>Projects</h2>
+
+    <h3>Dairy Farm Shop Management System</h3>
+    <p>
+        A project designed to manage dairy shop operations,
+        products and customer-related information.
+    </p>
+
+    <h2>Education</h2>
+
+    <p>BTech – Computer Science Engineering</p>
+
+    <h2>Contact</h2>
+
+    <p>Email: your-email@example.com</p>
+
+</body>
+</html>
